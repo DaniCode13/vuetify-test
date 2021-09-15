@@ -1,0 +1,18 @@
+// This is how you might override UIkit default variables
+//$global-primary-background: #491165;
+
+//@import "~uikit/src/scss/variables-theme.scss";
+//@import "~uikit/src/scss/mixins-theme.scss";
+//@import "~uikit/src/scss/uikit-theme.scss";
+
+//select
+@import "~slim-select/dist/slimselect.css";
+
+//sweetalert2
+@import "~sweetalert2/dist/sweetalert2.css";
+
+// Fonts
+@import url('https://cdn.jsdelivr.net/npm/@mdi/font@5.x/css/materialdesignicons.min.css');
+
+// Vuetify
+@import '~vuetify/dist/vuetify.min.css';
